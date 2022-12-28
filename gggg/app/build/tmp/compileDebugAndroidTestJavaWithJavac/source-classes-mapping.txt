@@ -1,0 +1,4 @@
+com/samuel/moviedb/test/BuildConfig.java
+ com.samuel.moviedb.test.BuildConfig
+com/samuel/moviedb/ExampleInstrumentedTest.java
+ com.samuel.moviedb.ExampleInstrumentedTest

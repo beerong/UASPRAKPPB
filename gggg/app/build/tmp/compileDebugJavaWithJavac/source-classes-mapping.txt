@@ -1,0 +1,84 @@
+com/samuel/moviedb/adapter/ViewPageAdapter.java
+ com.samuel.moviedb.adapter.ViewPageAdapter
+com/samuel/moviedb/activities/DetailMovieActivity.java
+ com.samuel.moviedb.activities.DetailMovieActivity
+ com.samuel.moviedb.activities.DetailMovieActivity$1
+ com.samuel.moviedb.activities.DetailMovieActivity$2
+ com.samuel.moviedb.activities.DetailMovieActivity$3
+com/samuel/moviedb/adapter/TvHorizontalAdapter.java
+ com.samuel.moviedb.adapter.TvHorizontalAdapter
+ com.samuel.moviedb.adapter.TvHorizontalAdapter$1
+ com.samuel.moviedb.adapter.TvHorizontalAdapter$ViewHolder
+ com.samuel.moviedb.adapter.TvHorizontalAdapter$onSelectData
+com/samuel/moviedb/fragment/FragmentFavoriteMovie.java
+ com.samuel.moviedb.fragment.FragmentFavoriteMovie
+com/samuel/moviedb/realm/RealmHelper.java
+ com.samuel.moviedb.realm.RealmHelper
+com/samuel/moviedb/notification/NotificationReleaseReceiver.java
+ com.samuel.moviedb.notification.NotificationReleaseReceiver
+ com.samuel.moviedb.notification.NotificationReleaseReceiver$1
+com/samuel/moviedb/activities/DetailTelevisionActivity.java
+ com.samuel.moviedb.activities.DetailTelevisionActivity
+ com.samuel.moviedb.activities.DetailTelevisionActivity$1
+ com.samuel.moviedb.activities.DetailTelevisionActivity$2
+ com.samuel.moviedb.activities.DetailTelevisionActivity$3
+com/samuel/moviedb/networking/ApiEndpoint.java
+ com.samuel.moviedb.networking.ApiEndpoint
+com/samuel/moviedb/preference/SettingPreference.java
+ com.samuel.moviedb.preference.SettingPreference
+com/samuel/moviedb/activities/MainActivity.java
+ com.samuel.moviedb.activities.MainActivity
+ com.samuel.moviedb.activities.MainActivity$1
+ com.samuel.moviedb.activities.MainActivity$2
+com/samuel/moviedb/activities/SettingActivity.java
+ com.samuel.moviedb.activities.SettingActivity
+ com.samuel.moviedb.activities.SettingActivity$1
+ com.samuel.moviedb.activities.SettingActivity$2
+ com.samuel.moviedb.activities.SettingActivity$3
+com/samuel/moviedb/adapter/TvAdapter.java
+ com.samuel.moviedb.adapter.TvAdapter
+ com.samuel.moviedb.adapter.TvAdapter$1
+ com.samuel.moviedb.adapter.TvAdapter$ViewHolder
+ com.samuel.moviedb.adapter.TvAdapter$onSelectData
+com/samuel/moviedb/fragment/FragmentFavoriteTv.java
+ com.samuel.moviedb.fragment.FragmentFavoriteTv
+com/samuel/moviedb/model/ModelMovie.java
+ com.samuel.moviedb.model.ModelMovie
+com/samuel/moviedb/fragment/FragmentFavorite.java
+ com.samuel.moviedb.fragment.FragmentFavorite
+com/samuel/moviedb/notification/NotificationDailyReceiver.java
+ com.samuel.moviedb.notification.NotificationDailyReceiver
+com/samuel/moviedb/model/ModelTrailer.java
+ com.samuel.moviedb.model.ModelTrailer
+com/samuel/moviedb/BuildConfig.java
+ com.samuel.moviedb.BuildConfig
+com/samuel/moviedb/utils/BottomBarBehavior.java
+ com.samuel.moviedb.utils.BottomBarBehavior
+com/samuel/moviedb/adapter/MovieHorizontalAdapter.java
+ com.samuel.moviedb.adapter.MovieHorizontalAdapter
+ com.samuel.moviedb.adapter.MovieHorizontalAdapter$1
+ com.samuel.moviedb.adapter.MovieHorizontalAdapter$ViewHolder
+ com.samuel.moviedb.adapter.MovieHorizontalAdapter$onSelectData
+com/samuel/moviedb/model/ModelTV.java
+ com.samuel.moviedb.model.ModelTV
+com/samuel/moviedb/fragment/FragmentTV.java
+ com.samuel.moviedb.fragment.FragmentTV
+ com.samuel.moviedb.fragment.FragmentTV$1
+ com.samuel.moviedb.fragment.FragmentTV$2
+ com.samuel.moviedb.fragment.FragmentTV$3
+ com.samuel.moviedb.fragment.FragmentTV$4
+com/samuel/moviedb/fragment/FragmentMovie.java
+ com.samuel.moviedb.fragment.FragmentMovie
+ com.samuel.moviedb.fragment.FragmentMovie$1
+ com.samuel.moviedb.fragment.FragmentMovie$2
+ com.samuel.moviedb.fragment.FragmentMovie$3
+ com.samuel.moviedb.fragment.FragmentMovie$4
+com/samuel/moviedb/adapter/TrailerAdapter.java
+ com.samuel.moviedb.adapter.TrailerAdapter
+ com.samuel.moviedb.adapter.TrailerAdapter$1
+ com.samuel.moviedb.adapter.TrailerAdapter$ViewHolder
+com/samuel/moviedb/adapter/MovieAdapter.java
+ com.samuel.moviedb.adapter.MovieAdapter
+ com.samuel.moviedb.adapter.MovieAdapter$1
+ com.samuel.moviedb.adapter.MovieAdapter$ViewHolder
+ com.samuel.moviedb.adapter.MovieAdapter$onSelectData
